@@ -1,6 +1,9 @@
 Backbone-Require-Boilerplate (BRB)
 ==================================
-> A Backbone.js and Require.js Boilerplate that promotes decoupling your JavaScript into modules, separating business logic from application logic using Collections/Models and Views, reusing your JavaScript between Desktop and Mobile Web versions while using a mobile framework (jQuery Mobile), including non-AMD Compatible Third Party Scripts in your project, optimizing all of your JavaScript (minify, concatenate, etc), and unit testing your JavaScript.
+> A Backbone.js and Require.js Boilerplate that promotes decoupling your JavaScript into modules, separating business logic from application logic using Collections/Models and Views, reusing your JavaScript between Desktop and Mobile Web versions while using a mobile framework (jQuery Mobile), including non-AMD Compatible Third Party Scripts in your project, optimizing all of your JavaScript (minify, concatenate, etc), and unit testing your JavaScript. 
+
+<a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Training">Backbone.js Training</a> is essential for developing any single page web application. You have learn backbone.js indepth to creating enterpirse SPA application. BackboneJS Training. Backbone.js enforces that communication to the server should be done entirely through a RESTful API. <a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.js Course">Backbone.js Course</a> This is because the browser is no longer the only client, we now have mobile devices, tablet devices, Google Goggles and electronic fridges etc. If you read through some of the beginner tutorials the benefits will soon become self evident and due to Backbone.js light nature you can incrementally include it in any current or future projects. Best Backbone.JS Training Chennai.
+
 
 ![Backbone Logo](http://3.bp.blogspot.com/-JFOJ-k6tLnA/TsiKgBYPvqI/AAAAAAAAAT8/dGXeu0LeuTE/s320/backbone-js-logo.png) ![RequireJS Logo](http://requirejs.org/i/logo.png)
 
@@ -14,10 +17,13 @@ Backbone-Require-Boilerplate (BRB)
    5.  Next, install the latest version of [Grunt](http://gruntjs.com/) by typing `npm install -g grunt-cli`.  If it complains about user permissions, type `sudo npm install -g grunt-cli`. 
    6. Navigate to inside of the **Backbone-Require-Boilerplate** folder and type `npm install`
    7. Next, type `nodemon` (this will start your Node.js web server and restart the server any time you make a file change thanks to the wonderful **nodemon** library)
+   8. <a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.js Course">Backbone.js Course</a>
    8. To view the demo page, go to [http://localhost:8001](http://localhost:8001)
    9. To view the Jasmine test suite page, go to [http://localhost:8001/specRunner.html](http://localhost:8001/specRunner.html)
    10. To view the Plato complexity report, go to [http://localhost:8001/reports/](http://localhost:8001/reports/)
    11. Enjoy using Backbone, Lodash, Require.js, AMDClean.js, jQuery, jQueryUI, jQuery Mobile, Twitter Bootstrap, Jasmine, and Grunt (enjoyment optional)
+
+This <a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Online Course">Backbone.JS Online Course</a> teaches you all about this open-source JavaScript framework. This course is designed for the absolute beginner, meaning no prior knowledge of BackboneJS is required, however you should already have a fundamental understanding of HTML, CSS and JavaScript.
 
 ## Tour of the Boilerplate Files
 
@@ -36,6 +42,8 @@ As you continue down the page to the first `<script>` tag, you will notice there
 
 To load our production/development CSS and JavaScript files, you can use the handy BoilerplateMVC helper methods included directly in our HTML page.  Below are the available helper methods:
 
+<a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Training in Chennai">Backbone.JS Training in Chennai</a>
+
    *loadCSS(url, callback)* - Asynchronously includes a CSS file to a page
 
    *loadJS(file, callback)* - Asynchronously includes a JavaScript file to the page
@@ -49,6 +57,8 @@ To load our production/development CSS and JavaScript files, you can use the han
    Since the Desktop/Mobile versions of the boilerplate point Require.js to two different files, including Require.js asynchronously with the `loadJS` method provides the flexibility to do that.
 
 ### Mobile Detection Script
+
+<a href="http://javascripttrainingcourses.com/JS/BackboneJS-Training" title="Backbone.JS Training in Chennai">Backbone.JS Training in Chennai</a>
 
 There is a simple JavaScript mobile browser detection script that stores different production/development CSS and JavaScript files within a local `config` object based on whether a user is using a mobile or desktop browser.
 
